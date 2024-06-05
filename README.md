@@ -1,7 +1,7 @@
 # Gestión de Inventario y Nómina de Empleados
-Este repositorio contiene dos programas diseñados para gestionar el inventario de una tienda y calcular la nómina de empleados de una empresa. Ambos programas están escritos en C++
+Este repositorio contiene dos programas diseñados para gestionar el inventario de una tienda y calcular la nómina de empleados de una empresa. Ambos programas están escritos en C++ y representan mi solución a un desafío presentado. 
 
-#Gestión de Inventario
+# Gestión de Inventario
 El programa de gestión de inventario incluye las siguientes características:
 
   1. Agregar Nuevos Productos al Inventario
